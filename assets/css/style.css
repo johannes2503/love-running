@@ -185,7 +185,7 @@ hr {
 }
 
 #circle-cover-bg {
-    background: url('/assets/images/ethos-center-image.jpeg') no-repeat center center;
+    background: url('../images/ethos-center-image.jpeg') no-repeat center center;
     height: 100%;
     border-radius: 50%;
 }
@@ -193,7 +193,7 @@ hr {
 /* Event times */
 
 #times {
-    background-image: url('/assets/images/dublin-city.webp');
+    background-image: url('../images/dublin-city.webp');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
