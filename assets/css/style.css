@@ -327,6 +327,10 @@ footer {
     #photos {
         column-count: 3;
     }
+
+    #photos {
+        column-count: 3;
+    }
 }
 
 /* For small screen sizes 800px and down */
